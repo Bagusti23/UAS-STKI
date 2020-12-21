@@ -1,1 +1,1 @@
-Catatan: Pada koneksi.php saya mengubah $password pada baris 8 menjadi ('')/kosong dikarenakan settingan pada XAMPP saya masih default, mohon maaf atas gangguan ini
+Catatan: Pada koneksi.php bisa disesuaikan dengan settingan dari xampp masing-masing
